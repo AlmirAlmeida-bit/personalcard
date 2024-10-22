@@ -1,0 +1,89 @@
+/* propriedades CSS 
+seletor
+    Propriedade: valor;
+
+    */
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    background-color: #1B1918;
+    margin: 0;
+    border-color: #000000;
+    ;
+
+
+
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5)
+}
+
+p {
+    font-size: 25px;
+    color: #ffffff;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5)
+        /*text-align: center;
+    width: 161px;
+    height: 150px;*/
+
+
+}
+
+.cartao {
+    background-color: #0d0f97;
+    display: block;
+   /* width: 340px;*/
+    height: 600px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    border-radius: 25px;
+    margin-top: 30px;
+    width: 70%;
+    max-width: 340px;
+    
+    
+
+}
+
+.cartao img {
+    border: 29px #000000;
+    border-radius: 55px;
+    margin-bottom: 30px;
+    box-shadow: 4px 8px 12px rgba(0, 0, 0, 0.5)
+}
+
+
+.links a{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: #000000;
+    margin-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    border-radius: 15px;
+    display: block;
+
+}
+
+.links a:hover {
+    background-color: rgb(0, 0, 0);
+    color: #0aaff6;
+
+
+}
+
+.rodape p {
+    font-size: 14px;
+    margin-top: 93px;
+    text-shadow: 4px 4px 8px rgba(0, 0, 0, 0.5)
+    
+}
